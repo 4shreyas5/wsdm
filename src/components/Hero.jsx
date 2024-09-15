@@ -41,7 +41,7 @@ const Hero = () => {
 
 
 
-          <Button href="https://calendly.com/adimediax/adimediax-discovery-call">
+          <Button href="https://calendar.app.google/9xvCrhfDV3kVoqsWA">
           Book A Stratergy Call
           </Button>
         </div>

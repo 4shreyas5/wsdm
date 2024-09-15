@@ -42,7 +42,7 @@ Creators and Companies {` `}
 
 
 
-          <Button href="https://calendly.com/adimediax/adimediax-discovery-call">
+          <Button href="https://calendar.app.google/9xvCrhfDV3kVoqsWA">
           Let's get started!
           </Button>
         </div>

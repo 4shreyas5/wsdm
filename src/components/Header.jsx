@@ -47,7 +47,7 @@ const Header = ({ onNavItemClicked }) => {
           <HamburgerMenu />
         </nav>
 
-        <Button className="hidden lg:flex" href="https://calendly.com/adimediax/adimediax-discovery-call" target="_blank" rel="noopener noreferrer">
+        <Button className="hidden lg:flex" href="https://calendar.app.google/9xvCrhfDV3kVoqsWA" target="_blank" rel="noopener noreferrer">
           Book A Call
         </Button>
 

@@ -69,7 +69,7 @@ const Roadmap2 = () => (
       </div>
 
       <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
-        <Button href="https://calendly.com/adimediax/adimediax-discovery-call">Book A Call</Button>
+        <Button href="https://calendar.app.google/9xvCrhfDV3kVoqsWA">Book A Call</Button>
       </div>
       <div className="relative mt-20">
           <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
