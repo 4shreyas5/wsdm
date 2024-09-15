@@ -244,7 +244,7 @@ export const roadmap3 = [
 ];
 
 export const collabText =
-  "WSDM transforms your brand story into a content powerhouse with 60+ social media posts across all your channels";
+  "WSDM transforms your brand story into a content powerhouse creating a multichannel distribution for your company across all social platforms";
   
 export const collabText2 =
 "Enhance your thought leadership by transforming four monthly conversations into over 60 pieces of content shared across all social channels, requiring minimal time commitment.";
@@ -548,8 +548,8 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Measurable Success",
-    text: "We believe in results. Data-driven insights allow us to track progress and optimize campaigns. We ditch the business jargon and over communicate the results.  This means we constantly update you on the impact of our work, allowing you to celebrate your startup's growth trajectory in real-time.",
+    title: "Global Talent, Lower Costs",
+    text: "Achieve your goals without breaking the bank! Our innovative approach connects you with exceptional A+ talent from countries like India and the Philippines, at a fraction of the cost of hiring dedicated employees (up to $100,000 per year). Our dedicated management team uses a structured approach to ensure seamless collaboration and maximum productivity. Tap into our global talent pool and discover a smarter way to achieve your objectives.",
     backgroundUrl:`${benefitCard5}`,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,

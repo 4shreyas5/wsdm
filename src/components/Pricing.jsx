@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with AdimediaX"
+          tag="Get started with WSDM"
           title="IGNITION FUEL"
         />
 

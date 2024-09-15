@@ -11,8 +11,8 @@ const Startup = () => {
           <Hero />
           <Benefits />
           <Collaboration />
-          <Services />
           <Pricing />
+          <Services />
           <Roadmap />
       </>
     );
