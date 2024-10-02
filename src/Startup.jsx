@@ -13,7 +13,7 @@ const Startup = () => {
           <Collaboration />
           <Pricing />
           <Services />
-          <Roadmap />
+          {/* <Roadmap /> */}
       </>
     );
   };
