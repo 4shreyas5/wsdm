@@ -365,11 +365,14 @@ export const pricing = [
     description: "For Web3 brands looking to build awareness through bite-sized, impactful content.",
     price: null,
     features: [
-      "20 Pieces of Customized Animated Content for Instagram, TikTok, and YouTube Shorts.",
-      "Content includes (Explainers, Product Highlights, Simplified Concepts, Community Stories).",
-      "Designed to simplify Web3 concepts for mass audience appeal.",
-      "Reporting and Analytics",
-      "24x7 Slack Support for Coordination"
+    "20 Pieces of Customized Animated Content for Instagram, TikTok, YouTube Shorts, and LinkedIn Shorts.",
+"Content includes (Explainers, Product Highlights, Simplified Concepts, Community Stories).",
+"Designed to simplify Web3 concepts for mass audience appeal.",
+"Custom crafted content for Instagram, X, and LinkedIn Carousels.",
+"Strategic captions and positioning for maximum engagement.",
+"Social Media Management.",
+"Reporting and analytics."
+
     ],
   },
   {
@@ -378,14 +381,16 @@ export const pricing = [
     description: "For established brands looking to dominate the Web3 space and drive mass adoption.",
     price: "9.99",
     features: [
-      "60 Pieces of Animated Short-Form Content across Instagram, TikTok, and YouTube Shorts",
-      "10 YouTube Long-Form Videos (7-10 minutes) per month.",
-      "Strategic Custom Threads for X(twitter) for maximum virality.",
-      "Promotions using Web3 theme pages, Reddit, and newsletters.",
-      "Collaborations with 5+ Web3 influencers monthly, including performance-based incentives.",
-      "Community management on Telegram/Discord (events, challenges, polls).",
-      "Advanced analytics dashboard with bi-weekly strategy calls.",
-      "24x7 Slack Support"
+   "60 Pieces of Animated Short-Form Content across Instagram, TikTok, YouTube Shorts, and LinkedIn Shorts.",
+"10 YouTube Long-Form Videos (7-10 minutes) per month.",
+"Strategic Custom Threads for X (Twitter) and LinkedIn for maximum virality.",
+"Promotions using Web3 theme pages, Reddit, and newsletters.",
+"Collaborations with 5+ Web3 influencers monthly, including performance-based incentives.",
+"Community management on Telegram/Discord (events, challenges, polls).",
+"Advanced analytics dashboard with bi-weekly strategy calls.",
+"24x7 Slack support."
+
+
     ]
       
   },
@@ -395,13 +400,15 @@ export const pricing = [
     description: "For Web3 brands ready to scale their audience and engage across multiple channels.",
     price: null,
     features: [
-      "30 Pieces of Animated Short-Form Content across Instagram, TikTok, and YouTube Shorts.",
-      "2 YouTube Long-Form Videos (5-7 minutes) per month.",
-      "Custom Content for Twitter(X) threads.",
-      "Promotions using Web3 theme pages, Reddit campaigns, and newsletters.",
-      "Focused on building credibility and engaging the Web3 community.",
-      "Reporting and Analytics",
-      "24x7 Slack Support"
+      "30 Pieces of Animated Short-Form Content across Instagram, TikTok, YouTube Shorts, and LinkedIn Shorts.",
+"2 YouTube Long-Form Videos (5-7 minutes) per month.",
+"Custom Content for Twitter (X) and LinkedIn threads.",
+"Promotions using Web3 theme pages, Reddit campaigns, and newsletters.",
+"Focused on building credibility and engaging the Web3 community.",
+"Social Media Management.",
+"Reporting and Analytics.",
+"24x7 Slack Support."
+
       
     ],
   },

@@ -19,7 +19,7 @@ const Services = () => {
           <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
             <iframe
               title="Horizontal Video"
-              src="https://www.instagram.com/reel/BBJQj9QnPk/embed"
+              src="https://www.instagram.com/reel/DAJSX2Eo3YA/embed"
               allowFullScreen
               className="w-full h-[600px]"
             ></iframe>
@@ -29,7 +29,7 @@ const Services = () => {
             <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
             <iframe
               title="Horizontal Video"
-              src="https://www.instagram.com/share/reel/BAITjFmRGC/embed"
+              src="https://www.instagram.com/reel/C_1Ew4VCfuu/embed"
               allowFullScreen
               className="w-full h-full"
             ></iframe>
@@ -38,7 +38,7 @@ const Services = () => {
             <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
             <iframe
               title="Horizontal Video"
-              src="https://www.instagram.com/share/reel/BAITjFmRGC/embed"
+              src="https://www.instagram.com/reel/DA6VDRVxKmC/embed"
               allowFullScreen
               className="w-full h-full"
             ></iframe>
