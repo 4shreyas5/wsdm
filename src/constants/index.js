@@ -68,11 +68,11 @@ export const navigation = [
     title: "Startup",
     url: "#startup",
   },
-  {
-    id: "1",
-    title: "Podcast",
-    url: "#podcast",
-  },
+  // {
+  //   id: "1",
+  //   title: "Podcast",
+  //   url: "#podcast",
+  // },
   // {
   //   id: "2",
   //   title: "Coaches",
@@ -361,46 +361,47 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Launchpad",
-    description: "Focused on Founder Led Content.",
+    title: "Echo",
+    description: "For Web3 brands looking to build awareness through bite-sized, impactful content.",
     price: null,
     features: [
-      "60+ Pieces of Customized Content for Linkedin and Instagram",
-      "Content Includes (Custom content, New Launches, Company’s Journey and Challenges, Industry Updates, Hiring Updates)",
-      "Focusing on creating a vision based narrative",
-      "Community Engagement",
-      "Reporting and analysis",
-      "24x7 slack support"
+      "20 Pieces of Customized Animated Content for Instagram, TikTok, and YouTube Shorts.",
+      "Content includes (Explainers, Product Highlights, Simplified Concepts, Community Stories).",
+      "Designed to simplify Web3 concepts for mass audience appeal.",
+      "Reporting and Analytics",
+      "24x7 Slack Support for Coordination"
     ],
   },
   {
     id: "1",
-    title: "Ascend",
-    description: "Focused On Value-First Content Approach",
+    title: "Mass Adoption Launchpad",
+    description: "For established brands looking to dominate the Web3 space and drive mass adoption.",
     price: "9.99",
     features: [
-      "100+ Pieces of Value based Content for Linkedin, Youtube and Instagram",
-      "Content Includes (Custom content, Discussing Consumer Painpoints and Solutions, Industry Updates,New Features)",
-      "Niche Specific Influencer Collaborations",
-      "Community Engagement",
-      "Reporting and analysis",
-      "24x7 slack support"
+      "60 Pieces of Animated Short-Form Content across Instagram, TikTok, and YouTube Shorts",
+      "10 YouTube Long-Form Videos (7-10 minutes) per month.",
+      "Strategic Custom Threads for X(twitter) for maximum virality.",
+      "Promotions using Web3 theme pages, Reddit, and newsletters.",
+      "Collaborations with 5+ Web3 influencers monthly, including performance-based incentives.",
+      "Community management on Telegram/Discord (events, challenges, polls).",
+      "Advanced analytics dashboard with bi-weekly strategy calls.",
+      "24x7 Slack Support"
     ]
       
   },
   {
     id: "2",
-    title: "Dominate",
-    description: "Founder Led + Value Based Content",
+    title: "Amplifier",
+    description: "For Web3 brands ready to scale their audience and engage across multiple channels.",
     price: null,
     features: [
-      "150+ Pieces of Founder led and Value based Content for Linkedin, Youtube and Instagram",
-      "Content Includes (Custom content, Discussing Consumer Painpoints and Solutions, Industry Updates, New Features, New Launches, Company’s Journey and Challenges, Hiring Updates)",
-      "Niche Specific Influencer Collaborations and Vision Based Narrative",
-      "Community Engagement",
-      "Performance Marketing",
-      "Reporting and analysis",
-      "24x7 slack support"
+      "30 Pieces of Animated Short-Form Content across Instagram, TikTok, and YouTube Shorts.",
+      "2 YouTube Long-Form Videos (5-7 minutes) per month.",
+      "Custom Content for Twitter(X) threads.",
+      "Promotions using Web3 theme pages, Reddit campaigns, and newsletters.",
+      "Focused on building credibility and engaging the Web3 community.",
+      "Reporting and Analytics",
+      "24x7 Slack Support"
       
     ],
   },
@@ -522,8 +523,8 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "Founder Led Content",
-    text: "Adds Authenticity and Credibility to a Startup’s Message. Humanizes the brand and puts a face to the company. Driving traffic through Vision Based Brand Narratives. WSDM Podcasting Solutions. Builds a strong online community for users to engage in creating a loyal userbase with a continuous feedback loop to improve",
+    title: "Mass Adoption",
+    text: "Enables Web3 brands to scale by simplifying complex concepts and educating audiences. Creates animated content designed for virality, driving trust and awareness. Builds loyalty through high-value brand pages. WSDM bridges the gap between blockchain technology and mainstream users, fostering engagement and accessibility for growth.",
     backgroundUrl:`${benefitCard2}`,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,

@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            Ignite Your Startup's Growth {` `}
+            Ignite Your Web3 Space's Growth {` `}
             <span className="inline-block relative">
               WSDM{" "}
               <img
@@ -33,10 +33,10 @@ const Hero = () => {
             </span>
           </h1>
           <div className="my-24 text-xl">
-          Empowering new-age startups to amplify their brand voice through compelling content and drive high-quality leads through Founder Led Content and Value First Content Approach.
+          Empowering new-age startups to amplify their brand voice through compelling content and drive high-quality growth through Value First Content Approach.
           At WSDM, we specialize in crafting tailored strategies that resonate with your audience and propel your growth. 
           <br/> <div>Let's collaborate to elevate your brand and drive impactful results. </div>
-          <br/><div className="text-3xl text-[#A055FF]">Ready To Stir Sh*t Up in the Startup Space?</div>
+          <br/><div className="text-3xl text-[#A055FF]">Ready To Stir Shit Up in the Web3 Space?</div>
           </div>
 
 

@@ -34,7 +34,7 @@ const App = () => {
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header onNavItemClicked={handleNavItemClicked} />
         {activeComponent === "0" && <Startup />}
-        {activeComponent === "1" && <Podcast />}
+        {/* {activeComponent === "1" && <Podcast />} */}
         {/* {activeComponent === "0" && <Coaches />} */}
         {activeComponent === "3" && <PrivacyPolicy />} 
         <Footer onPrivacyPolicyClick={handlePrivacyPolicyClick} />
