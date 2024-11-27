@@ -16,14 +16,7 @@ const Services = () => {
         />
 
         <div className="relative">
-          <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
-            <iframe
-              title="Horizontal Video"
-              src="https://www.instagram.com/reel/DAJSX2Eo3YA/embed"
-              allowFullScreen
-              className="w-full h-[600px]"
-            ></iframe>
-          </div>
+         
 
           <div className="relative z-1 grid gap-5 lg:grid-cols-2">
             <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
