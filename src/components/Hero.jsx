@@ -41,8 +41,8 @@ const Hero = () => {
 
 
 
-          <Button href="https://calendar.app.google/9xvCrhfDV3kVoqsWA">
-          Book A Stratergy Call
+          <Button href="https://qt99gbb8s2q.typeform.com/to/hzRKqFCV">
+          Get Your Free Web3 Growth Plan
           </Button>
         </div>
         
