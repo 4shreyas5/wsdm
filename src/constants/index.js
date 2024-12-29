@@ -523,7 +523,7 @@ export const benefits = [
   {
     id: "0",
     title: "Content Creation Powerhouse",
-    text: "We collaborate with you to understand your brand voice and target audience. Our team crafts a captivating content calendar for key social media platforms. Engaging texts, posts, and videos fuel your online presence and establish thought leadership through content.",
+    text: "We collaborate with you to understand your brand voice and target audience, crafting a captivating content calendar for key social media platforms. Our engaging texts, posts, and videos fuel your online presence and establish thought leadership through content.",
     backgroundUrl: `${benefitCard1}`,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -531,7 +531,7 @@ export const benefits = [
   {
     id: "1",
     title: "Mass Adoption",
-    text: "Enables Web3 brands to scale by simplifying complex concepts and educating audiences. Creates animated content designed for virality, driving trust and awareness. Builds loyalty through high-value brand pages. WSDM bridges the gap between blockchain technology and mainstream users, fostering engagement and accessibility for growth.",
+    text: "We amplify user-generated viral content videos that drive awareness and signups. Our strategy showcases real people benefiting from your AI solutions.",
     backgroundUrl:`${benefitCard2}`,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -540,7 +540,7 @@ export const benefits = [
   {
     id: "2",
     title: "Value First Content",
-    text: " Focusing on the needs, interests, and challenges of the target audience, which enhances engagement and builds trust. Value First content attracts organic traffic, generates leads, and nurtures prospects through the sales funnel, ultimately boosting conversions and revenue. High-value content is more likely to be shared across social media platforms and other channels, expanding the startup's reach",
+    text: "Our team produces content that solves real-world problems using your AI technology. This includes: Explainer videos that break down complex concepts Practical use case videos demonstrating everyday applications Tutorials that educate and solve a specific problem or business issue using your AI.",
     backgroundUrl: `${benefitCard3}`,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -549,7 +549,7 @@ export const benefits = [
   {
     id: "3",
     title: "Community Engagement",
-    text: "Build genuine relationships with your audience by actively listening, responding to feedback, and showing appreciation for their support. Build genuine relationships with your audience by actively listening, responding to feedback, and showing appreciation for their support. Encouraging user-generated content, run contests, and create interactive posts to boost engagement and visibility.",
+    text: "We help you build genuine relationships with your audience by actively listening, responding to feedback, and showing appreciation for their support. Our strategies include encouraging user-generated content, running contests, and creating interactive posts to boost engagement and visibility.",
     backgroundUrl: `${benefitCard4}`,
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -557,7 +557,7 @@ export const benefits = [
   {
     id: "4",
     title: "Global Talent, Lower Costs",
-    text: "Achieve your goals without breaking the bank! Our innovative approach connects you with exceptional A+ talent from countries like India and the Philippines, at a fraction of the cost of hiring dedicated employees (up to $100,000 per year). Our dedicated management team uses a structured approach to ensure seamless collaboration and maximum productivity. Tap into our global talent pool and discover a smarter way to achieve your objectives.",
+    text: "Achieve your goals without breaking the bank! Our innovative approach connects you with exceptional A+ talent from countries like India and the Philippines, at a fraction of the cost of hiring dedicated employees (up to $100,000 per year). Our dedicated management team uses a structured approach to ensure seamless collaboration and maximum productivity. Tap into our global talent pool and discover a smarter way to achieve your objectives. ",
     backgroundUrl:`${benefitCard5}`,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -565,7 +565,7 @@ export const benefits = [
   {
     id: "5",
     title: "WSDM: It's Your Turn",
-    text: "*Schedule a free consultation to discuss your specific goals and tailor WSDM to your needs. Let's ignite your startup's growth together. Launch your marketing efforts and watch your brand soar!",
+    text: "*Schedule a free consultation to discuss your specific goals and tailor WSDM to your needs. Let's ignite your startup's growth together. Launch your marketing efforts and watch your brand soar!",
     backgroundUrl: `${benefitCard6}`,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
