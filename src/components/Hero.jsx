@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-          Dominate the AI Revolution   {` `}
+          Dominate the Web3 Revolution   {` `}
             <span className="inline-block relative">
               WSDM{" "}
               <img
@@ -33,10 +33,10 @@ const Hero = () => {
             </span>
           </h1>
           <div className="my-24 text-xl">
-          Revolutionizing AI startups with powerful content that converts and campaigns that captivate.
-          At WSDM Studios, we craft UGC, explainer videos, and growth strategies to make your AI tools irresistible. Let’s break down complexity, build trust, and supercharge your brand’s reach.
+          Empowering new-age startups to amplify their brand voice through compelling content and drive high-quality growth through Value First Content Approach.
+          At WSDM, we specialize in crafting tailored strategies that resonate with your audience and propel your growth. 
           <br/> <div>Let's collaborate to elevate your brand and drive impactful results. </div>
-          <br/><div className="text-3xl text-[#A055FF]">Ready to Stir Shit Up in the AI Space?</div>
+          <br/><div className="text-3xl text-[#A055FF]">Ready To Stir Shit Up in the Web3 Space?</div>
           </div>
 
 
