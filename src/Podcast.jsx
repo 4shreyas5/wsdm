@@ -13,7 +13,7 @@ const Podcast = () => {
         <Collaboration2 />
         <Services2 />
         <Pricing2 />
-        <Roadmap2 />
+        {/* <Roadmap2 /> */}
     </>
   );
 };

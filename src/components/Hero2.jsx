@@ -20,8 +20,7 @@ const Hero2 = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-          Podcasting Solutions for 
-Creators and Companies {` `}
+          Dominate the AI Revolution {` `}
             <span className="inline-block relative">
               WSDM{" "}
               <img
@@ -34,16 +33,16 @@ Creators and Companies {` `}
             </span>
           </h1>
           <div className="my-24 text-xl">
-          We help creators and companies to start and grow podcasts to enhance their online reach across all major platforms, attract high quality leads, and boost revenue.
-
+          Revolutionizing AI startups with powerful content that converts and campaigns that captivate.
+          At WSDM Studios, we craft UGC for Social Media Content and Ad Creatives, explainer videos, and growth strategies to make your AI tools irresistible. Let’s break down complexity, build trust, and supercharge your brand’s reach.
           <br/> <div>Let's collaborate to elevate your brand and drive impactful results. </div>
-          <br/><div className="text-3xl text-[#A055FF]">Ready to stand out in the Podcasting Landscape?</div>
+          <br/><div className="text-3xl text-[#A055FF]">Ready to Stir Shit Up in the AI Space?</div>
           </div>
 
 
 
           <Button href="https://calendar.app.google/9xvCrhfDV3kVoqsWA">
-          Let's get started!
+          GET A FREE REPORT ON COMPETITOR TRENDS & PLAN YOUR NEXT GROWTH MOVE
           </Button>
         </div>
         
@@ -52,7 +51,7 @@ Creators and Companies {` `}
           </ScrollParallax>
      
 
-        <CompanyLogos2 className="relative z-10 mt-20 lg:block" />
+        {/* <CompanyLogos2 className="relative z-10 mt-20 lg:block" /> */}
       </div>
 
       <BottomLine />

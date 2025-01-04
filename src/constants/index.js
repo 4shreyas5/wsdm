@@ -68,11 +68,11 @@ export const navigation = [
     title: "Startup",
     url: "#startup",
   },
-  // {
-  //   id: "1",
-  //   title: "Podcast",
-  //   url: "#podcast",
-  // },
+  {
+    id: "1",
+    title: "AI",
+    url: "#ai",
+  },
   // {
   //   id: "2",
   //   title: "Coaches",
@@ -247,7 +247,7 @@ export const collabText =
   "WSDM transforms your brand story into a content powerhouse creating a multichannel distribution for your company across all social platforms";
   
 export const collabText2 =
-"Enhance your thought leadership by transforming four monthly conversations into over 60 pieces of content shared across all social channels, requiring minimal time commitment.";
+"WSDM transforms your brand story into a content powerhouse creating a multichannel distribution for your company across all social platforms";
 
 export const collabText3 =
 "WSDM empowers your brand to become a content creation machine, eliminating the need for manual content production. We leverage sales and content automation to transform your brand providing real value and creating a strong community that trusts and respects you.";
@@ -417,54 +417,51 @@ export const pricing = [
 export const pricing2 = [
   {
     id: "0",
-    title: "Fuel",
-    description: "Ideal for established podcasts that are already produced.",
+    title: "ECHO",
+    description: "Elevate your online presence with engaging, high-quality content and drive consistent growth.",
     price: null,
     features: [
-      "30 shorts/month",
-      "Posted on Instagram, YouTube, LinkedIn, Facebook & TikTok",
-      "Monetization of the podcast",
-      "Repurposed content",
-      "Custom scripted content",
-      "Custom animations",
-      "Reporting & Analytics",
-      "24x7 slack support"
+      "8 Authentic UGC Videos/Month: Real-world scenarios showcasing your AI product",
+      "4 High-Quality Explainer Videos/Month: Professional walkthroughs, tutorials, or demos",
+      "Dedicated Client Onboarding & Coordination",
+      "Full Content Access with Usage Rights Across All Platforms",
+      "2 High-Impact Ad Creatives Designed to Drive Conversions",
+      "Reporting and Analytics",
+      "24*7 Slack Support",
     ],
   },
   {
     id: "1",
-    title: "Launchpad",
-    description: "Podcasts built from scratch for companies and creators",
-    price: "9.99",
+    title: "GROWTH",
+    description: "For ambitious AI startups ready to turn their innovation into the industry standard and accelerate market adoption.",
+    price: null,
     features: [
-      "4 podcasts/month",
-      "Guest sourcing & ideation",
-      "Podcast brand & website creation",
-      "Monetization of the podcast",
-      "Custom shorts",
-      "Custom animations",
-      "Reporting & Analytics",
-      "24x7 slack support"
-    ]
-      
+      "16 Premium UGC Videos/Month: Authentic user stories and real-world applications",
+      "12 Professional Explainer and Funnel Videos/Month: Crystal-clear demos, tutorials, and YouTube Overtop Funnel content",
+      "Strategic Distribution: Featured placement on top AI theme pages (Instagram/TikTok/Reddit/Newsletters)",
+      "8 High-Impact Ad Creatives Designed to Drive Conversions",
+      "Expert Campaign Management: A/B testing and performance optimization",
+      "Reporting and Analytics",
+      "24*7 Slack Support",
+    ],
   },
   {
     id: "2",
-    title: "Ignition",
-    description: "Ideal for podcasts seeking a complete solution model",
-    price: null ,
+    title: "AMPLIFIER",
+    description: "Scale your AI solution into a category leader with our most comprehensive growth package.",
+    price: null,
     features: [
-      "Podcast production",
-      "Podcast promotion via theme pages, slack, reddit & newsletters",
-      "4 Long-form clips for YouTube/month",
-      "30-60 shorts/month",
-      "Custom animations",
-      "Monetization of the podcast",
-      "Reporting & Analytics",
-      "24x7 slack support"
-    ]
+      "30 Premium UGC Videos/Month: Authentic user stories and real-world applications",
+      "20 Professional Explainer Videos/Month: Crystal-clear demos, tutorials, and Top funnel YouTube content",
+      "Multi-Platform Ad Campaigns: Strategic presence across Google, Meta, LinkedIn & TikTok",
+      "15 High-Impact Ad Creatives Designed to Drive Conversions",
+      "Advanced A/B Testing: Continuous optimization for maximum ROI",
+      "Elite Distribution: Featured placement on premium AI channels",
+      "Full-Scale Analytics: Detailed ROI tracking and performance insights",
+    ],
   },
 ];
+
 
 export const pricing3 = [
   {
@@ -574,31 +571,57 @@ export const benefits = [
 export const benefits2 = [
   {
     id: "0",
-    title: "Recording Your Podcast",
-    text: "Begin by allocating merely one hour per week to podcast recording. This is a feasible timeframe, seamlessly fitting into your schedule. Subsequently, your podcast will be distributed across leading streaming platforms, ensuring widespread accessibility and reach for your content.",
+    title: "Content Creation Powerhouse",
+    text: "We design custom content calendars tailored to your brand voice and audience. From engaging posts to captivating videos, we fuel your online growth with high-quality, consistent content. Our approach enhances your social media presence, driving engagement and solidifying your authority in the industry.",
     backgroundUrl: `${benefitCard1}`,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Repurpose Your Content",
-    text: "Step 2 involves repurposing your content effectively to broaden your audience. Convert your podcast into two captivating YouTube videos for visual engagement. Extract 60 brief snippets for platforms like Instagram and TikTok to captivate viewers. Additionally, craft two SEO-optimized articles from your podcast topics to enhance search engine discoverability.",
-    backgroundUrl:`${benefitCard2}`,
+    title: "Mass Adoption",
+    text: "We create viral, user-generated content videos showcasing real-world applications of your AI solutions. By emphasizing authentic user benefits, we increase awareness and encourage signups, driving mass adoption of your technology.",
+    backgroundUrl: `${benefitCard2}`,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
   },
   {
     id: "2",
-    title: "Building Your Audience",
-    text: "Through persistent recording and repurposing across diverse platforms, you'll forge a robust presence, drawing a dedicated podcast audience. This multifaceted strategy ensures accessibility across various content consumption channels. With commitment and strategic adaptation, your podcast can transform from a mere hour-long recording into a formidable content hub.",
+    title: "UGC That Works",
+    text: "User-Generated Content (UGC) is the Word of Mouth in the content space. By showcasing real users’ experiences with your solutions, we create authentic connections with your audience. Let us help you build the UGC your company deserves to scale.",
     backgroundUrl: `${benefitCard3}`,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
     light: true,
   },
+  {
+    id: "3",
+    title: "Value-First Content",
+    text: "Our team creates content that solves real problems with your AI technology. From explainer videos to tutorials and practical use case demonstrations, we simplify complex concepts and inspire audience action.",
+    backgroundUrl: `${benefitCard4}`,
+    iconUrl: benefitIcon3,
+    imageUrl: benefitImage2,
+  },
+  {
+    id: "4",
+    title: "Global Talent, Lower Costs",
+    text: "Hire exceptional talent from India and the Philippines while saving up to $100,000 annually. Our management ensures smooth collaboration, connecting you with A+ talent for cost-effective, impactful results.",
+    backgroundUrl: `${benefitCard5}`,
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+    light: true,
+  },
+  {
+    id: "5",
+    title: "Community Engagement",
+    text: "Foster strong relationships with your audience through active engagement, feedback-driven strategies, and interactive posts. Our UGC campaigns, contests, and appreciation initiatives keep your community vibrant and loyal.",
+    backgroundUrl: `${benefitCard6}`,
+    iconUrl: benefitIcon1,
+    imageUrl: benefitImage2,
+  },
 ];
+
 export const benefits3 = [
   {
     id: "0",
