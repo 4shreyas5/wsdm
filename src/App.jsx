@@ -12,7 +12,7 @@ const App = () => {
 
   useEffect(() => {
     const hash = window.location.hash.substring(1);
-    if (hash === "podcast") {
+    if (hash === "ai") {
       setActiveComponent("1");
     } else if (hash === "coaches") {
       setActiveComponent("2");
