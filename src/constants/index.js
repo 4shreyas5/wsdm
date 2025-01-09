@@ -65,8 +65,8 @@ export const navigation = [
   // },
   {
     id: "0",
-    title: "Startup",
-    url: "#startup",
+    title: "WEB3",
+    url: "#web3",
   },
   {
     id: "1",
@@ -446,20 +446,21 @@ export const pricing2 = [
     ],
   },
   {
-    id: "2",
-    title: "AMPLIFIER",
-    description: "Scale your AI solution into a category leader with our most comprehensive growth package.",
-    price: null,
-    features: [
-      "30 Premium UGC Videos/Month: Authentic user stories and real-world applications",
-      "20 Professional Explainer Videos/Month: Crystal-clear demos, tutorials, and Top funnel YouTube content",
-      "Multi-Platform Ad Campaigns: Strategic presence across Google, Meta, LinkedIn & TikTok",
-      "15 High-Impact Ad Creatives Designed to Drive Conversions",
+    "id": "2",
+    "title": "AMPLIFIER",
+    "description": "Scale your AI solution into a category leader with our most comprehensive growth package.",
+    "price": null,
+    "features": [
+      "Focus on thought leadership through Founder Led Content for maximum impact.",
+      "Premium UGC Videos/Month: Authentic user stories and real-world applications",
+      "Professional Explainer Videos/Month: Crystal-clear demos, tutorials and Top funnel youtube content.",
+      "High-Impact Ad Creatives Designed to Drive Conversions",
       "Advanced A/B Testing: Continuous optimization for maximum ROI",
       "Elite Distribution: Featured placement on premium AI channels",
-      "Full-Scale Analytics: Detailed ROI tracking and performance insights",
-    ],
-  },
+      "Full-Scale Analytics: Detailed ROI tracking and performance insights"
+    ]
+  }
+  
 ];
 
 

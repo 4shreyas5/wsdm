@@ -30,7 +30,7 @@ const Collaboration2 = () => {
             ))}
           </ul>
 
-          <Button href="https://calendar.app.google/9xvCrhfDV3kVoqsWA" className="mt-40">Try it now</Button>
+          <Button href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2pkBKEo2Z9XjMi89x4reQ9f9k_Zdy7hoVvnRF0QpX0BvjMczowkZH3jYEI90GadeNSSIgqASky" className="mt-40">Try it now</Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">

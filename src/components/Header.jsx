@@ -47,7 +47,7 @@ const Header = ({ onNavItemClicked }) => {
           <HamburgerMenu />
         </nav>
 
-        <Button className="hidden lg:flex" href="https://calendar.app.google/9xvCrhfDV3kVoqsWA" target="_blank" rel="noopener noreferrer">
+        <Button className="hidden lg:flex" href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2pkBKEo2Z9XjMi89x4reQ9f9k_Zdy7hoVvnRF0QpX0BvjMczowkZH3jYEI90GadeNSSIgqASky" target="_blank" rel="noopener noreferrer">
           Book A Call
         </Button>
 
