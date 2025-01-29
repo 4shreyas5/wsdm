@@ -417,47 +417,44 @@ export const pricing = [
 export const pricing2 = [
   {
     id: "0",
-    title: "ECHO",
-    description: "Elevate your online presence with engaging, high-quality content and drive consistent growth.",
+    title: "UNFOLD",
+    description: "Deliver value-packed long-form content that simplifies complex ideas, showcasing your product’s impact.",
     price: null,
     features: [
-      "8 Authentic UGC Videos/Month: Real-world scenarios showcasing your AI product",
-      "4 High-Quality Explainer Videos/Month: Professional walkthroughs, tutorials, or demos",
-      "Dedicated Client Onboarding & Coordination",
-      "Full Content Access with Usage Rights Across All Platforms",
-      "2 High-Impact Ad Creatives Designed to Drive Conversions",
-      "Reporting and Analytics",
-      "24*7 Slack Support",
-    ],
+      "8 High Quality Explainers for YouTube, LinkedIn etc",
+      "30 Social Media Posts for cross platform posting.",
+      "Repurposing Long form content to post on multiple platforms.",
+      "Social Media Management with Dedicated Client Onboarding & Coordination",
+      "Reporting and Analysis",
+      "24*7 Slack Support"
+    ]
   },
   {
     id: "1",
-    title: "GROWTH",
-    description: "For ambitious AI startups ready to turn their innovation into the industry standard and accelerate market adoption.",
+    title: "FLASH",
+    description: "Combine authentic UGC with impactful short-form content to instantly capture and engage your audience.",
     price: null,
     features: [
-      "16 Premium UGC Videos/Month: Authentic user stories and real-world applications",
-      "12 Professional Explainer and Funnel Videos/Month: Crystal-clear demos, tutorials, and YouTube Overtop Funnel content",
-      "Strategic Distribution: Featured placement on top AI theme pages (Instagram/TikTok/Reddit/Newsletters)",
-      "8 High-Impact Ad Creatives Designed to Drive Conversions",
-      "Expert Campaign Management: A/B testing and performance optimization",
-      "Reporting and Analytics",
-      "24*7 Slack Support",
-    ],
+      "8 Authentic UGC Videos: Real-world scenarios showcasing your AI product",
+      "30 Social Media Posts for cross platform posting across Instagram, TikTok, LinkedIn Shorts etc.",
+      "Graphic Carousels and Posts for Instagram, X and Threads.",
+      "Social Media Management with Dedicated Client Onboarding & Coordination",
+      "Reporting and Analysis",
+      "24*7 Slack Support"
+    ]
   },
   {
     "id": "2",
-    "title": "AMPLIFIER",
-    "description": "Scale your AI solution into a category leader with our most comprehensive growth package.",
-    "price": null,
-    "features": [
-      "Focus on thought leadership through Founder Led Content for maximum impact.",
-      "Premium UGC Videos/Month: Authentic user stories and real-world applications",
-      "Professional Explainer Videos/Month: Crystal-clear demos, tutorials and Top funnel youtube content.",
-      "High-Impact Ad Creatives Designed to Drive Conversions",
-      "Advanced A/B Testing: Continuous optimization for maximum ROI",
-      "Elite Distribution: Featured placement on premium AI channels",
-      "Full-Scale Analytics: Detailed ROI tracking and performance insights"
+    title: "RAMPAGE",
+    description: "Dominate all platforms with in-depth explainers, concise short-form videos, and authentic UGC strategies.",
+    price: null,
+    features: [
+      "8 High Quality Explainers for YouTube, LinkedIn etc",
+      "8 Authentic UGC Videos: Real-world scenarios showcasing your AI product",
+      "60 High Quality Social Media Posts Repurposed from Long Form Explainers and Short Form UGC to post across all platforms.",
+      "Elite Distribution: Featured placement on premium AI social channels and theme pages.",
+      "Reporting and Analytics",
+      "24*7 Slack Support"
     ]
   }
   
