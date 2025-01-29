@@ -33,8 +33,7 @@ const Hero2 = () => {
             </span>
           </h1>
           <div className="my-24 text-xl">
-          Revolutionizing AI startups with powerful content that converts and campaigns that captivate.
-          At WSDM Studios, we craft UGC for Social Media Content and Ad Creatives, explainer videos, and growth strategies to make your AI tools irresistible. Let’s break down complexity, build trust, and supercharge your brand’s reach.
+          Revolutionizing AI startups with powerful content that converts and campaigns that captivate. At WSDM Studios, we craft impactful and engaging long form Explainer Content, UGC for Social Media Content, Ad Creatives and growth strategies to make your AI tools irresistible. Let’s break down complexity, build trust, and supercharge your brand’s reach.
           <br/> <div>Let's collaborate to elevate your brand and drive impactful results. </div>
           <br/><div className="text-3xl text-[#A055FF]">Ready to Stir Shit Up in the AI Space?</div>
           </div>

@@ -573,8 +573,7 @@ export const benefits2 = [
   {
     id: "0",
     title: "Content Creation Powerhouse",
-    text: "We design custom content calendars tailored to your brand voice and audience. From engaging posts to captivating videos, we fuel your online growth with high-quality, consistent content. Our approach enhances your social media presence, driving engagement and solidifying your authority in the industry.",
-    backgroundUrl: `${benefitCard1}`,
+    text: "We create long-form explainer content for YouTube, LinkedIn, and more, breaking down how your product works and how it can help your audience. We focus on communicating the value it brings and the problems it solves, making it easy for people to understand the benefits. This content is then repurposed into short-form engaging videos with UGC, maximizing reach, impact, and conversions across platforms",    backgroundUrl: `${benefitCard1}`,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
