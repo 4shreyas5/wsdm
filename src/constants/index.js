@@ -577,7 +577,7 @@ export const benefits2 = [
   {
     id: "1",
     title: "Mass Adoption",
-    text: "We create viral, user-generated content videos showcasing real-world applications of your AI solutions. By emphasizing authentic user benefits, we increase awareness and encourage signups, driving mass adoption of your technology.",
+    text: "We create viral, user-generated content videos and long-form explainers that showcase real-world applications of your AI solutions. By highlighting authentic user benefits, we increase awareness and encourage signups. This content is crafted to maximize impact, ensuring your audience understands the value your technology brings. Through engaging storytelling, we help drive widespread adoption of your innovations.",  
     backgroundUrl: `${benefitCard2}`,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -586,7 +586,7 @@ export const benefits2 = [
   {
     id: "2",
     title: "UGC That Works",
-    text: "User-Generated Content (UGC) is the Word of Mouth in the content space. By showcasing real users’ experiences with your solutions, we create authentic connections with your audience. Let us help you build the UGC your company deserves to scale.",
+    text: "User-Generated Content (UGC) is the most powerful form of marketing today. By featuring real users and their experiences with your solutions, we create content that builds trust and engagement. Our approach ensures that your brand resonates with audiences authentically, strengthening connections and driving conversions. Let us help you establish the UGC ecosystem your company needs to scale effectively.",
     backgroundUrl: `${benefitCard3}`,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,

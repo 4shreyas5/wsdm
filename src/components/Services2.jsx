@@ -11,7 +11,7 @@ const Services2 = () => {
       <div className="container">
         <Heading
           title="Your Brand’s Voice"
-          text="WSDM unlocks the potential of Your Podcast"
+          text="WSDM unlocks the potential of Your StartUp"
         />
 
         <div className="relative">
