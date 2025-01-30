@@ -15,14 +15,14 @@ const Services2 = () => {
         />
 
         <div className="relative">
-          {/* <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
+          <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
             <iframe
               title="Horizontal Video"
-              src="https://www.youtube.com/embed/zImnxyXPufs"
+              src="https://youtube.com/embed/jpThCV6qak8"
               allowFullScreen
               className="w-full h-[600px]"
             ></iframe>
-          </div> */}
+          </div>
 
           <div className="relative z-1 grid gap-5 lg:grid-cols-2">
           <div className="relative min-h-[39rem] border border-n-1/10 rounded-3xl overflow-hidden">
